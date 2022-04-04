@@ -1,1 +1,1 @@
- describing what each script is doing
+ update the readme file 
